@@ -21,7 +21,7 @@ const GallerySection = () => {
       title: "Ngipen Bareng",
       description: "Ngipen bareng",
       imageUrl:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/IMG-20231014-WA0466.jpg-SFYXNFMBYoePylpsCacKttPjRKxquE.jpeg",
+        "IMG-20231014-WA0466",
     },
     // Add more items as needed
   ]
