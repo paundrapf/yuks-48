@@ -13,9 +13,11 @@ const poppins = Poppins({
 export const metadata = {
   title: "YUKS48 Community",
   description: "Welcome to the YUKS48 community website",
-  icons : {
-    icon: "/logo.ico",
-  },
+  icons: [
+    { rel: "icon", url: "/logo.jpg" },
+    { rel: "apple-touch-icon", url: "/logo.jpg" },
+    { rel: "shortcut icon", url: "/logo.jpg" },
+  ],
 }
 
 export default function RootLayout({
@@ -24,9 +26,9 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en">
       <body className={poppins.className}>
-        <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
           <Header />
           <main>{children}</main>
         </ThemeProvider>
