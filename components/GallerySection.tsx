@@ -30,6 +30,34 @@ const GallerySection = () => {
       imageUrl:
         "triogondrong.jpg",
     },
+    {
+      id: 3,
+      title: "Trio Gondrong",
+      description: "Trio Gondrong",
+      imageUrl:
+        "triogondrong.jpg",
+    },
+    {
+      id: 4,
+      title: "Trio Gondrong",
+      description: "Trio Gondrong",
+      imageUrl:
+        "triogondrong.jpg",
+    },
+    {
+      id: 5,
+      title: "Trio Gondrong",
+      description: "Trio Gondrong",
+      imageUrl:
+        "triogondrong.jpg",
+    },
+    {
+      id: 6,
+      title: "Trio Gondrong",
+      description: "Trio Gondrong",
+      imageUrl:
+        "triogondrong.jpg",
+    },
   ]
 
   return (
