@@ -41,7 +41,7 @@ const HeroSection = () => {
           className="mb-8"
         >
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20231001_020357.jpg-OPLD3YwmpSxwaO80cr24zDJaecpodv.jpeg"
+            src="/logo.jpg"
             alt="YUKS48 Logo"
             width={400}
             height={133}
