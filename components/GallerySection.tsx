@@ -22,7 +22,8 @@ const GallerySection = () => {
       description: "Ngipen bareng",
       imageUrl:
         "ngipen1.jpg",
-    
+    },
+    {
       id: 2,
       title: "Trio Gondrong",
       description: "Trio Gondrong",
