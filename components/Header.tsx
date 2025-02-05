@@ -22,7 +22,7 @@ const Header = () => {
       <div className="container mx-auto px-4 py-2 flex justify-between items-center">
         <Link href="/" className="flex items-center">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/20231001_020357.jpg-OPLD3YwmpSxwaO80cr24zDJaecpodv.jpeg"
+            src="logo"
             alt="YUKS48 Logo"
             width={120}
             height={40}
