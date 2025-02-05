@@ -18,17 +18,17 @@ const GallerySection = () => {
   const galleryItems: GalleryItem[] = [
     {
       id: 1,
-      title: "Ngipen Bareng",
-      description: "Ngipen bareng",
+      title: "Bukber with Starshine",
+      description: "Bukber with Starshine",
       imageUrl:
-        "ngipen1.jpg",
+        "bukber.jpeg",
     },
     {
       id: 2,
-      title: "Trio Gondrong",
-      description: "Trio Gondrong",
+      title: "Ngipen Bareng",
+      description: "Ngipen Bareng",
       imageUrl:
-        "triogondrong.jpg",
+        "ngipen1.jpg",
     },
     {
       id: 3,
