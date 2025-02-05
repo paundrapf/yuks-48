@@ -21,7 +21,7 @@ const GallerySection = () => {
       title: "Ngipen Bareng",
       description: "Ngipen bareng",
       imageUrl:
-        "/components/IMG-20231014-WA0466.jpg",
+        "https://drive.google.com/drive/folders/1-xn_dgt3qsIvEdxJMshkA-XhJqisvCUV",
     },
     // Add more items as needed
   ]
