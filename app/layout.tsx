@@ -13,6 +13,9 @@ const poppins = Poppins({
 export const metadata = {
   title: "YUKS48 Community",
   description: "Welcome to the YUKS48 community website",
+  icons : {
+    icon: "/logo.jpg",
+  },
 }
 
 export default function RootLayout({
