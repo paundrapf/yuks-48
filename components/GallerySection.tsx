@@ -21,7 +21,7 @@ const GallerySection = () => {
       title: "Ngipen Bareng",
       description: "Ngipen bareng",
       imageUrl:
-        "IMG-20231014-WA0466",
+        "/components/IMG-20231014-WA0466",
     },
     // Add more items as needed
   ]
