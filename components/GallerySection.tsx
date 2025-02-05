@@ -39,24 +39,24 @@ const GallerySection = () => {
     },
     {
       id: 4,
-      title: "Trio Gondrong",
-      description: "Trio Gondrong",
+      title: "Coming Soon",
+      description: "Coming Soon",
       imageUrl:
-        "triogondrong.jpg",
+        "Coming Soon.jpg",
     },
     {
       id: 5,
-      title: "Trio Gondrong",
-      description: "Trio Gondrong",
+      title: "Coming Soon",
+      description: "Coming Soon",
       imageUrl:
-        "triogondrong.jpg",
+        "Coming Soon.jpg",
     },
     {
       id: 6,
-      title: "Trio Gondrong",
-      description: "Trio Gondrong",
+      title: "Coming Soon",
+      description: "Coming Soon",
       imageUrl:
-        "triogondrong.jpg",
+        "Coming Soon.jpg",
     },
   ]
 
