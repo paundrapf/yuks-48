@@ -14,9 +14,9 @@ export const metadata = {
   title: "YUKS48 Community",
   description: "Welcome to the YUKS48 community website",
   icons: [
-    { rel: "icon", url: "/logo.jpg" },
-    { rel: "apple-touch-icon", url: "/logo.jpg" },
-    { rel: "shortcut icon", url: "/logo.jpg" },
+    { rel: "icon", url: "/logo.ico" },
+    { rel: "apple-touch-icon", url: "/logo.ico" },
+    { rel: "shortcut icon", url: "/logo.ico" },
   ],
 }
 
