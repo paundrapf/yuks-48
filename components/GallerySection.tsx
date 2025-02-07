@@ -39,10 +39,10 @@ const GallerySection = () => {
     },
     {
       id: 4,
-      title: "Coming Soon",
-      description: "Coming Soon",
+      title: "Bahlil",
+      description: "Bahlul",
       imageUrl:
-        "Coming Soon.jpg",
+        "bahlil.jpg",
     },
     {
       id: 5,
